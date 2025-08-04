@@ -121,8 +121,8 @@ export function CreativeHero() {
     function init() {
       particlesArray.length = 0
 
-      const canvasWidth = canvas.width / devicePixelRatio
-      const canvasHeight = canvas.height / devicePixelRatio
+      const canvasWidth = canvas!.width / devicePixelRatio
+      const canvasHeight = canvas!.height / devicePixelRatio
 
       const numX = Math.floor(canvasWidth / gridSize)
       const numY = Math.floor(canvasHeight / gridSize)
