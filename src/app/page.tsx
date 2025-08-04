@@ -1,6 +1,6 @@
 "use client"
 import Link from "next/link"
-import { ArrowRight, Github, Linkedin, Mail, Twitter } from "lucide-react"
+import { ArrowRight, Github, Linkedin, Mail } from "lucide-react"
 
 
 import { Button } from "@/components/ui/button"
@@ -151,7 +151,7 @@ export default function Portfolio() {
                   specialize in Full Stack development with Javascript Frameworks and library.
                 </p>
                 <p className="text-lg text-zinc-300 mt-4">
-                  My journey in tech started with a strong foundation in software development. I've worked with various
+                  My journey in tech started with a strong foundation in software development. I&apos;ve worked with various
                   companies to create intuitive, performant, and accessible digital experiences.
                 </p>
                 <p className="text-lg text-zinc-300 mt-4">
