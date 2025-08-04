@@ -45,7 +45,7 @@ export default function Portfolio() {
               </div>
             </div>
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
-              <span className="block">Hi, I'm</span>
+              <span className="block">Hi, I&apos;m</span>
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
                 Manish Kumar
               </span>
@@ -147,7 +147,7 @@ export default function Portfolio() {
             <div className="space-y-6">
               <GlassmorphicCard>
                 <p className="text-lg text-zinc-300">
-                  I'm a passionate software engineer with experience building web applications and digital products. I
+                  I&apos;m a passionate software engineer with experience building web applications and digital products. I
                   specialize in Full Stack development with Javascript Frameworks and library.
                 </p>
                 <p className="text-lg text-zinc-300 mt-4">
@@ -155,7 +155,7 @@ export default function Portfolio() {
                   companies to create intuitive, performant, and accessible digital experiences.
                 </p>
                 <p className="text-lg text-zinc-300 mt-4">
-                  When I'm not coding, you can find me exploring new technologies, grinding leetcode,
+                  When I&apos;m not coding, you can find me exploring new technologies, grinding leetcode,
                   and staying up-to-date with the latest industry trends.
                 </p>
 
