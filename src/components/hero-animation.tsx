@@ -44,7 +44,7 @@ export function HeroAnimation() {
       color: string
 
       constructor() {
-        const rect = canvas.getBoundingClientRect()
+        const rect = canvas!.getBoundingClientRect()
         this.x = Math.random() * rect.width
         this.y = Math.random() * rect.height
         this.size = Math.random() * 5 + 1
